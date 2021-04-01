@@ -6,3 +6,12 @@ car = {
 }
 
 p car
+
+
+animal = {
+	'Mammal': false,
+	'Reptile': true,
+	'Color': 'green'
+}
+
+p animal
